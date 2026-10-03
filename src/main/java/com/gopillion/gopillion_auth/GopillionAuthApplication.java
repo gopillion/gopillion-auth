@@ -12,6 +12,8 @@ public class GopillionAuthApplication {
 		System.out.println("Welcome to GoPillion : Lets get started");
 		System.out.println("Hello jii");
 		System.out.print("Feature_0");
+		int n = 10;
+		int k = 20;
+		System.out.println("Sum of n and k is: " + (n + k));
 	}
-
 }
