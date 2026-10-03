@@ -6,12 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GopillionAuthApplication {
 
-	public static void main(String[] args) {
-
-		SpringApplication.run(GopillionAuthApplication.class, args);
-		System.out.println("Welcome to GoPillion : Lets get started");
-		System.out.println("Hello jii");
-		System.out.print("Feature_0");
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(GopillionAuthApplication.class, args);
+    }
 }
