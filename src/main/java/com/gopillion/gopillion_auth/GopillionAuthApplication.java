@@ -16,5 +16,4 @@ public class GopillionAuthApplication {
 		SpringApplication.run(GopillionAuthApplication.class, args);
 		System.out.println("Welcome to GoPillion : Lets get started");
 	}
-
 }
