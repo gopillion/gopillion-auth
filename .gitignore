@@ -34,3 +34,4 @@ build/
 
 # Spring Boot secrets/config
 src/main/resources/application.properties
+src/main/resources/application.yml
